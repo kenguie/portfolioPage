@@ -41,3 +41,7 @@ ul li a {
 ul li a:hover {
     color: aliceblue;
 }
+
+#sitelock {
+    padding: 25px;
+}
